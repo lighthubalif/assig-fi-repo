@@ -1,0 +1,22 @@
+.alif{
+    display: flex;
+align-items: center;
+justify-content: space-between;
+}
+.nav-title{
+    font-weight: 800;
+    font-size: 40px;
+}
+.btn{
+   font-weight: 600; 
+    font-size: 20px;
+    
+    box-sizing: border-box;
+border: 1px solid rgb(13, 19, 33);
+border-radius: 8px;
+opacity: 0.8;
+
+}
+nav ul{
+    display: flex;
+}
